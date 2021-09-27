@@ -5,12 +5,12 @@ This app provides prevention for common well known deadliest illnesses.  When pe
 
 ### Image of the Application
 <p float="left">
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/APK%20file/a.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/b.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/c.jpg" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/a.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/b.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/c.png" width="250" height="450" />
 </p>
 <p float="left">
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/d.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/e.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/f.jpg" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/d.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/e.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/tree/master/APK%20file/f.png" width="250" height="450" />
 </p>
