@@ -1,5 +1,5 @@
 # Android_amaharic_Health_tip
-This app provides prevention for common well known deadliest illnesses.  When people think of the deadliest diseases in the world, their minds probably jump to the fast-acting, incurable ones that grab headlines from time to time. But in fact, many of these types of diseases don’t rank in the top 10 causes of worldwide deaths.  Perhaps even more surprising is that several of the deadliest diseases are partially preventable. Non-preventable factors include where a person lives, access to preventive care, and quality of healthcare. Regarding this, this application provides prevention techniques and valuabile information in Amaharic.
+This app provides prevention for common well known deadliest illnesses. 
 
 ## Check the Game video/image 
 
